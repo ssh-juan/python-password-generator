@@ -1,2 +1,1 @@
-# Test
-Just a test
+# Python Password Generator
