@@ -1,4 +1,6 @@
 # Juan's Python Password Generator
+![Python Password Generator logo (1) (1) (1)](https://github.com/user-attachments/assets/7ddf1f69-4719-4123-8bb1-30c34f9f03de)
+
 This code creates a random password based on user inputs.
 - Letters
 - Symbols
